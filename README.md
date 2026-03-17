@@ -5,4 +5,4 @@ Author: Kas Knicely
 Date Created: 2026 March 17
 Affiliation at time of Creation: University of Alaska Fairbanks
 
-This work was funded by a NASA Alaska EPSCoR grant. 
+This work was funded by NASA Alaska EPSCoR grant #395886-66841. 
